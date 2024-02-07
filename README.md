@@ -52,5 +52,8 @@ Don't just take our word for it – hear what our customers have to say! Read gl
 ## Acknowledgments
 
 - [React Documentation](https://reactjs.org/docs/getting-started.html)
+- [React Slick](https://react-slick.neostack.com/)
+- [React Icons](https://react-icons.github.io/react-icons/)
 - [Tailwind CSS Documentation](https://tailwindcss.com/docs)
+- [Animate on Scroll](https://michalsnik.github.io/aos/)
 - [Unsplash](https://unsplash.com/) for providing high-quality images of food and culinary delights.
