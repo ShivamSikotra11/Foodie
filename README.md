@@ -8,6 +8,7 @@ Foodie is a modern, web-based platform designed to tantalize your taste buds and
 - **Premium Services:** Enjoy seamless ordering, swift delivery, and exclusive deals that make every meal a special occasion.
 - **Glowing Testimonials:** Read testimonials from satisfied customers sharing their delightful experiences and culinary adventures with Foodie.
 - **Tailwind-based Design:** Our sleek and responsive design ensures an optimal user experience across all devices.
+- **Dark/Light Mode:** Switch between dark and light modes for a customized browsing experience.
 
 ## Sections
 
@@ -46,13 +47,9 @@ Don't just take our word for it – hear what our customers have to say! Read gl
 ## Screenshots
 ![Login Page](hero.jpg)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
 - [React Documentation](https://reactjs.org/docs/getting-started.html)
 - [Tailwind CSS Documentation](https://tailwindcss.com/docs)
 - [Unsplash](https://unsplash.com/) for providing high-quality images of food and culinary delights.
-- [Lorem Ipsum](https://www.lipsum.com/) for generating placeholder text for the project.
