@@ -45,7 +45,8 @@ Don't just take our word for it – hear what our customers have to say! Read gl
 
 
 ## Screenshots
-![Login Page](hero.jpg)
+![Appointment Page](hero.jpg)
+![Appointment Page](section.jpg)
 
 
 ## Acknowledgments
