@@ -1,6 +1,6 @@
 # Foodie - A Culinary Delight
 
-Foodie is a modern, web-based platform designed to tantalize your taste buds and satisfy your cravings with a diverse array of dishes, premium services, and glowing testimonials. Whether you're a food enthusiast, a culinary connoisseur, or simply someone looking for your next delicious meal, Foodie has something for everyone.
+Introducing Foodie - your go-to destination for an unforgettable culinary experience! Whether you're a foodie at heart, a lover of great flavors, or simply in search of your next delicious meal, Foodie has got you covered with its wide range of dishes, top-notch services, and rave reviews.
 
 ## Features
 
@@ -46,7 +46,7 @@ Don't just take our word for it – hear what our customers have to say! Read gl
 
 ## Screenshots
 ![Appointment Page](hero.jpg)
-![Appointment Page](section.jpg)
+![Appointment Page](section.png)
 
 
 ## Acknowledgments
