@@ -39,10 +39,10 @@ Don't just take our word for it – hear what our customers have to say! Read gl
 5. Open your browser and visit `http://localhost:5173` to view Foodie in action.
 
 ## Usage
+1. Website Link: https://starlit-puffpuff-de07fe.netlify.app/
+2. Browse the different sections of the website, including Dishes, Services, and Testimonials.
+3. Explore the mouth-watering dishes, premium services, and glowing testimonials to discover what Foodie has to offer.
 
-1. Browse the different sections of the website, including Dishes, Services, and Testimonials.
-2. Explore the mouth-watering dishes, premium services, and glowing testimonials to discover what Foodie has to offer.
-3. Place an order, schedule a delivery, or simply indulge in the culinary delights featured on Foodie.
 
 ## Screenshots
 ![Login Page](hero.jpg)

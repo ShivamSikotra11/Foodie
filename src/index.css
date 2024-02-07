@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.aos-container {
+  data-aos: fade-right;
+  data-aos-duration: 500;
+}
+
+/* Change style for screens smaller than or equal to 768px */
+@media screen and (max-width: 768px) {
+  .aos-container {
+      data-aos: fade-up; /* Change to your desired effect for small screens */
+      data-aos-duration: 300; /* Change to your desired duration for small screens */
+  }
+}
