@@ -32,10 +32,10 @@ Don't just take our word for it – hear what our customers have to say! Read gl
 - **JavaScript:** Adds interactivity and dynamic functionality to the frontend, allowing users to explore and interact with Foodie's features.
 
 ## Installation
-
-1. Clone the repository: `git clone https://github.com/ShivamSikotra11/Foodie`
-2. Navigate to the project directory: `cd Foodie`
-3. Start the development server: `npm run dev`
+1. Install Node JS from `https://nodejs.org/en/download` and set up it
+2. Clone the repository: `git clone https://github.com/ShivamSikotra11/Foodie`
+3. Navigate to the project directory: `cd Foodie`
+4. Start the development server: `npm run dev`
 5. Open your browser and visit `http://localhost:5173` to view Foodie in action.
 
 ## Usage
